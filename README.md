@@ -4,7 +4,7 @@ This repository runs a daily Random Forest flood prediction model for the Huron 
 
 ## Main Files
 
-- `version_3.py` - daily flood prediction model and dashboard generator
+- `version_4.py` - daily flood prediction model and dashboard generator
 - `input.csv` - historical daily water-level and precipitation input data
 - `huron_river_basin.jpg` - basin map used in the dashboard
 - `index.html` - generated interactive dashboard for GitHub Pages
