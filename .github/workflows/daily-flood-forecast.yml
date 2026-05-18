@@ -27,7 +27,7 @@ jobs:
         run: python -m pip install -r requirements.txt
 
       - name: Run flood forecast
-        run: python version_3.py
+        run: python version_4.py
 
       - name: Commit updated model outputs
         run: |
